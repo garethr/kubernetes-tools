@@ -1,0 +1,21 @@
+{
+  "abstraction": "Yes",
+  "active": "No",
+  "contributors": "6",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "17",
+  "last-activity-commit": "",
+  "license": "BSD 3-Clause",
+  "notes": "",
+  "project": "Broadway",
+  "prs": "0",
+  "stars": "15",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/namely/broadway",
+  "uses-k8s-client": "client-go",
+  "yaml-data": "Yes"
+}

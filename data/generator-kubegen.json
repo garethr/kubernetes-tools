@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "Yes",
+  "contributors": "1",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "2",
+  "last-activity-commit": "",
+  "license": "MIT",
+  "notes": "",
+  "project": "generator-kubegen",
+  "prs": "0",
+  "stars": "11",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/sesispla/generator-kubegen",
+  "uses-k8s-client": "",
+  "yaml-data": "Yes"
+}

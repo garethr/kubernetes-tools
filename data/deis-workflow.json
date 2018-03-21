@@ -1,0 +1,21 @@
+{
+  "abstraction": "Yes",
+  "active": "No",
+  "contributors": "191",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "57",
+  "last-activity-commit": "",
+  "license": "MIT",
+  "notes": "",
+  "project": "Deis workflow",
+  "prs": "3",
+  "stars": "1068",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/deis/workflow",
+  "uses-k8s-client": "",
+  "yaml-data": "No"
+}

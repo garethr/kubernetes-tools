@@ -1,0 +1,21 @@
+{
+  "abstraction": "Yes",
+  "active": "Yes",
+  "contributors": "257",
+  "creation-first-commit-date": "",
+  "external-dsl": "Yes",
+  "internal-dsl": "No",
+  "issues": "639",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "",
+  "project": "Compose",
+  "prs": "61",
+  "stars": "11442",
+  "tags": [
+    "config"
+  ],
+  "url": "https://www.docker.com/kubernetes",
+  "uses-k8s-client": "",
+  "yaml-data": "Yes"
+}

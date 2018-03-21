@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "Yes",
+  "contributors": "2",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "Yes",
+  "issues": "0",
+  "last-activity-commit": "",
+  "license": "MIT",
+  "notes": "",
+  "project": "k8s-kotlin-dsl",
+  "prs": "0",
+  "stars": "31",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/fkorotkov/k8s-kotlin-dsl",
+  "uses-k8s-client": "fabric8",
+  "yaml-data": "No"
+}

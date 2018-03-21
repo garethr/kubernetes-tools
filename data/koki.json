@@ -1,0 +1,21 @@
+{
+  "abstraction": "Yes",
+  "active": "Yes",
+  "contributors": "2",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "1",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "",
+  "project": "Koki",
+  "prs": "0",
+  "stars": "14",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/koki/koki",
+  "uses-k8s-client": "",
+  "yaml-data": "Yes"
+}

@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "Yes",
+  "contributors": "14",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "11",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "",
+  "project": "rok8s-scripts",
+  "prs": "4",
+  "stars": "49",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/reactiveops/rok8s-scripts",
+  "uses-k8s-client": "kubectl",
+  "yaml-data": "No"
+}

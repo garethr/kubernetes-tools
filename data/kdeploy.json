@@ -1,0 +1,21 @@
+{
+  "abstraction": "",
+  "active": "No",
+  "contributors": "3",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "15",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "",
+  "project": "kdeploy",
+  "prs": "0",
+  "stars": "8",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/flexiant/kdeploy",
+  "uses-k8s-client": "kubectl",
+  "yaml-data": "Yes"
+}

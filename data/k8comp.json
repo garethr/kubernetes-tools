@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "Yes",
+  "contributors": "1",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "3",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "Manages config, uses encryped yaml and hiera",
+  "project": "k8comp",
+  "prs": "0",
+  "stars": "11",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/cststack/k8comp",
+  "uses-k8s-client": "",
+  "yaml-data": "Yes"
+}

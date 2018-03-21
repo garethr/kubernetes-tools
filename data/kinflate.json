@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "Yes",
+  "contributors": "",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "",
+  "last-activity-commit": "",
+  "license": "",
+  "notes": "",
+  "project": "Kinflate",
+  "prs": "",
+  "stars": "",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/kubernetes/kubectl/tree/master/cmd/kinflate",
+  "uses-k8s-client": "",
+  "yaml-data": "Yes"
+}

@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "Yes",
+  "contributors": "",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "",
+  "project": "OpenShift templates",
+  "prs": "",
+  "stars": "",
+  "tags": [
+    "config"
+  ],
+  "url": "https://docs.openshift.org/latest/dev_guide/templates.html",
+  "uses-k8s-client": "client-go",
+  "yaml-data": "Yes"
+}

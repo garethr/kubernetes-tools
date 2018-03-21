@@ -1,0 +1,21 @@
+{
+  "abstraction": "Yes",
+  "active": "Yes",
+  "contributors": "14",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "18",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "Built on top of helm",
+  "project": "landscaper",
+  "prs": "0",
+  "stars": "168",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/Eneco/landscaper",
+  "uses-k8s-client": "client-go",
+  "yaml-data": "Yes"
+}

@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "Yes",
+  "contributors": "23",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "99",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "Example in https://databricks.com/blog/2017/06/26/declarative-infrastructure-jsonnet-templating-language.html",
+  "project": "jsonnet",
+  "prs": "1",
+  "stars": "1020",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/google/jsonnet",
+  "uses-k8s-client": "",
+  "yaml-data": "No"
+}

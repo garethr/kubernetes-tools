@@ -1,0 +1,66 @@
+Project,URL,License,Stars,Issues,PRs,Contributors,Abstraction,Internal DSL,External DSL,YAML/data,Uses K8s client,Active,Creation/first commit date,Last Activity (commit),Notes
+Helm,https://github.com/kubernetes/helm,Apache 2,3595,323,54,250,Yes,No,No,Yes,client-go,Yes,,,
+oc,https://docs.openshift.com/online/dev_guide/application_lifecycle/new_app.html,Apache 2,,,,,Yes,No,No,No,client-go,Yes,,,
+Kompose,https://github.com/kubernetes-incubator/kompose,Apache 2,1940,81,8,32,Yes,,,,client-go,Yes,,,
+Spread,https://github.com/redspread/spread,Apache 2,1845,44,9,4,No,No,No,Yes,client-go,No,,,
+ksonnet,https://github.com/ksonnet/ksonnet,Apache 2,169,78,1,14,No,No,Yes,No,,Yes,,,Generates jsonnet library from the OpenAPI description
+kubecfg,https://github.com/ksonnet/kubecfg,Apache 2,185,17,7,9,No,No,Yes,No,client-go,Yes,,,
+Draft,https://github.com/Azure/draft,MIT,1589,90,9,34,No,No,No,Yes,,Yes,,,Uses Helm
+jsonnet,https://github.com/google/jsonnet,Apache 2,1020,99,1,23,No,No,No,No,,Yes,,,Example in https://databricks.com/blog/2017/06/26/declarative-infrastructure-jsonnet-templating-language.html
+Kapitan,https://github.com/deepmind/kapitan,Apache 2,109,1,0,3,No,No,Yes,No,,Yes,,,Uses jsonnet
+Konfd,https://github.com/kelseyhightower/konfd,Apache 2,428,3,0,2,No,No,No,Yes,kubectl,Yes,,,
+ktmpl,https://github.com/jimmycuadra/ktmpl,MIT,145,8,1,7,No,No,No,Yes,,Yes,,,
+fabric8 client,https://github.com/fabric8io/kubernetes-client,Apache 2,313,163,9,69,No,Yes,No,No,,Yes,,,
+kubegen,https://github.com/errordeveloper/kubegen,,48,8,0,2,Yes,No,No,Yes,,Yes,,,
+kenv,https://github.com/thisendout/kenv,MIT,125,0,0,2,No,No,No,Yes,,Yes,,,
+Ansible,https://github.com/ansible/ansible-kubernetes-modules,Apache 2,42,6,0,4,No,No,Yes,Yes,Openshift Python client,Yes,,,
+Puppet,https://forge.puppet.com/garethr/kubernetes/readme,Apache 2,20,8,3,8,No,No,Yes,No,kubeclient ruby,Yes,,,
+KPM,https://github.com/coreos/kpm,Apache 2,116,35,3,8,Yes,No,No,Yes,kubectl,No,,,
+Nulecule,https://github.com/projectatomic/nulecule,GPL,227,30,4,29,Yes,No,No,Yes,,No,,,
+Kedge,https://github.com/kedgeproject/kedge,Apache 2,136,107,15,11,Yes,No,No,Yes,,Yes,,,
+OpenCompose,https://github.com/redhat-developer/opencompose,Apache 2,59,57,2,8,Yes,No,No,Yes,,No,,,
+Chartify,https://github.com/appscode/chartify,Apache 2,71,11,1,3,No,No,No,Yes,,Yes,,,
+Podex,https://github.com/kubernetes/contrib/tree/master/podex,Apache 2,,,,,No,No,No,No,,No,,,
+k8sec,https://github.com/dtan4/k8sec,MIT,87,0,0,3,No,No,No,No,,Yes,,,Only managed Kubernetes secrets
+kb80r,https://github.com/UKHomeOffice/kb8or,MIT,46,25,3,5,No,No,No,Yes,kubectl,No,,,
+k8s-kotlin-dsl,https://github.com/fkorotkov/k8s-kotlin-dsl,MIT,31,0,0,2,No,Yes,No,No,fabric8,Yes,,,
+KY,https://github.com/stellaservice/ky,MIT,21,0,1,1,No,No,No,Yes,,Yes,,,Only managed secrets and configs
+kploy,https://github.com/kubernauts/kploy,Apache 2,27,4,0,2,Yes,No,No,Yes,https://github.com/kubernauts/pyk,No,,,
+kdeploy,https://github.com/flexiant/kdeploy,Apache 2,8,15,0,3,,No,No,Yes,kubectl,No,,,
+kubernetes-deploy,https://github.com/Shopify/kubernetes-deploy,MIT,312,25,9,20,No,No,No,Yes,kubeclient ruby,Yes,,,Special handling for encryped json
+generator-kubegen,https://github.com/sesispla/generator-kubegen,MIT,11,2,0,1,No,No,No,Yes,,Yes,,,
+k8comp,https://github.com/cststack/k8comp,Apache 2,11,3,0,1,No,No,No,Yes,,Yes,,,"Manages config, uses encryped yaml and hiera"
+kontemplate,https://github.com/tazjin/kontemplate,GPL3,71,21,3,2,No,No,No,Yes,,Yes,,,
+kexpand,https://github.com/kopeio/kexpand,Apache 2,35,6,5,3,No,No,No,Yes,,Yes,,,
+Forge,https://github.com/datawire/forge/,Apache 2,123,43,1,6,Yes,No,No,Yes,kubectl,Yes,,,
+Psykube,https://github.com/CommercialTribe/psykube,MIT,55,1,0,7,Yes,No,No,Yes,kubectl,Yes,,,
+Deploymentizer,https://github.com/InVisionApp/kit-deploymentizer,MIT,8,1,0,5,Yes,No,No,Yes,,Yes,,,
+Broadway,https://github.com/namely/broadway,BSD 3-Clause,15,17,0,6,Yes,No,No,Yes,client-go,No,,,
+Srvexpand,https://github.com/hortonworks/kubernetes-yarn/tree/master/contrib/srvexpand,Apache 2,,,,,Yes,No,No,Yes,,No,,,
+rok8s-scripts,https://github.com/reactiveops/rok8s-scripts,Apache 2,49,11,4,14,No,No,No,No,kubectl,Yes,,,
+ERB-Hiera,https://github.com/roobert/erb-hiera,MIT,3,0,2,1,Yes,No,No,Yes,,Yes,,,
+k82-icl,https://github.com/archipaorg/k8s-icl,,3,0,0,1,No,No,Yes,No,,Yes,,,
+Compose,https://www.docker.com/kubernetes,Apache 2,11442,639,61,257,Yes,No,Yes,Yes,,Yes,,,
+Deis workflow,https://github.com/deis/workflow,MIT,1068,57,3,191,Yes,No,No,No,,No,,,
+OpenShift templates,https://docs.openshift.org/latest/dev_guide/templates.html,Apache 2,,,,,No,No,No,Yes,client-go,Yes,,,
+kube-applier,https://github.com/box/kube-applier,Apache 2,254,6,3,3,No,No,No,Yes,kubectl,Yes,,,
+fabric8-mvn-plugin,https://github.com/fabric8io/fabric8-maven-plugin,Apache 2,80,204,18,33,No,No,No,No,,Yes,,,
+Smith,https://github.com/atlassian/smith,Apache 2,114,14,1,7,Yes,No,No,Yes,client-go,Yes,,,
+Flux,https://github.com/weaveworks/flux,Apache 2,312,112,2,19,No,No,No,No,kubectl,Yes,,,
+Rubiks,https://github.com/olx-global/rubiks,Apache 2,11,0,0,3,No,Yes,No,No,,Yes,,,
+landscaper,https://github.com/Eneco/landscaper,Apache 2,168,18,0,14,Yes,No,No,Yes,client-go,Yes,,,Built on top of helm
+armada,https://github.com/att-comdev/armada,Apache 2,41,32,0,19,Yes,No,No,Yes,,Yes,,,Built on top of helm. Built to install openstack into k8s and deal with needs for that
+Terraform,https://github.com/terraform-providers/terraform-provider-kubernetes,MPL 2,77,27,7,19,No,No,Yes,No,client-go,Yes,,,
+Skipper,https://github.com/concur/skipper,Apache 2,23,4,0,2,Yes,No,No,No,node-kubernetes-client,Yes,,,CURLable API that enables deployment to any jurisdiction and generates k8s objects specific to each location
+Helmfile,https://github.com/roboll/helmfile,MIT,106,6,1,7,No,No,No,No,,Yes,,,
+Short,https://github.com/koki/short,Apache 2,28,17,1,2,Yes,No,No,Yes,,Yes,,,
+Koki,https://github.com/koki/koki,Apache 2,14,1,0,2,Yes,No,No,Yes,,Yes,,,
+Metaparticle,https://github.com/metaparticle-io/package,MIT,163,16,0,19,Yes,Yes,No,No,,Yes,,,
+Archipa,https://github.com/archipaorg/archipa,MPL 2,4,0,9,1,No,No,Yes,No,,Yes,,,
+Kinflate,https://github.com/kubernetes/kubectl/tree/master/cmd/kinflate,,,,,,No,No,No,Yes,,Yes,,,
+Skylark,https://github.com/google/skylark,BSD,947,8,2,12,No,,,No,,Yes,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+TODO:,,,,,,,,,,,,,,,
+gitkube,https://github.com/hasura/gitkube,,,,,,,,,,,,,,

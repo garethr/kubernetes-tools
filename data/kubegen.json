@@ -1,0 +1,21 @@
+{
+  "abstraction": "Yes",
+  "active": "Yes",
+  "contributors": "2",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "8",
+  "last-activity-commit": "",
+  "license": "",
+  "notes": "",
+  "project": "kubegen",
+  "prs": "0",
+  "stars": "48",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/errordeveloper/kubegen",
+  "uses-k8s-client": "",
+  "yaml-data": "Yes"
+}

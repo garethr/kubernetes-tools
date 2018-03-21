@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "Yes",
+  "contributors": "1",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "0",
+  "last-activity-commit": "",
+  "license": "MIT",
+  "notes": "Only managed secrets and configs",
+  "project": "KY",
+  "prs": "1",
+  "stars": "21",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/stellaservice/ky",
+  "uses-k8s-client": "",
+  "yaml-data": "Yes"
+}

@@ -1,0 +1,21 @@
+{
+  "abstraction": "Yes",
+  "active": "No",
+  "contributors": "2",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "4",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "",
+  "project": "kploy",
+  "prs": "0",
+  "stars": "27",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/kubernauts/kploy",
+  "uses-k8s-client": "https://github.com/kubernauts/pyk",
+  "yaml-data": "Yes"
+}

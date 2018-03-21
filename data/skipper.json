@@ -1,0 +1,21 @@
+{
+  "abstraction": "Yes",
+  "active": "Yes",
+  "contributors": "2",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "4",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "CURLable API that enables deployment to any jurisdiction and generates k8s objects specific to each location",
+  "project": "Skipper",
+  "prs": "0",
+  "stars": "23",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/concur/skipper",
+  "uses-k8s-client": "node-kubernetes-client",
+  "yaml-data": "No"
+}

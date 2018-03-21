@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "Yes",
+  "contributors": "9",
+  "creation-first-commit-date": "",
+  "external-dsl": "Yes",
+  "internal-dsl": "No",
+  "issues": "17",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "",
+  "project": "kubecfg",
+  "prs": "7",
+  "stars": "185",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/ksonnet/kubecfg",
+  "uses-k8s-client": "client-go",
+  "yaml-data": "No"
+}

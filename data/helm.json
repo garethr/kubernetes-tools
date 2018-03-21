@@ -1,0 +1,21 @@
+{
+  "abstraction": "Yes",
+  "active": "Yes",
+  "contributors": "250",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "323",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "",
+  "project": "Helm",
+  "prs": "54",
+  "stars": "3595",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/kubernetes/helm",
+  "uses-k8s-client": "client-go",
+  "yaml-data": "Yes"
+}

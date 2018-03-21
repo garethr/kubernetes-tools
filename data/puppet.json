@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "Yes",
+  "contributors": "8",
+  "creation-first-commit-date": "",
+  "external-dsl": "Yes",
+  "internal-dsl": "No",
+  "issues": "8",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "",
+  "project": "Puppet",
+  "prs": "3",
+  "stars": "20",
+  "tags": [
+    "config"
+  ],
+  "url": "https://forge.puppet.com/garethr/kubernetes/readme",
+  "uses-k8s-client": "kubeclient ruby",
+  "yaml-data": "No"
+}

@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "Yes",
+  "contributors": "3",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "6",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "",
+  "project": "kube-applier",
+  "prs": "3",
+  "stars": "254",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/box/kube-applier",
+  "uses-k8s-client": "kubectl",
+  "yaml-data": "Yes"
+}

@@ -1,0 +1,21 @@
+{
+  "abstraction": "Yes",
+  "active": "No",
+  "contributors": "8",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "57",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "",
+  "project": "OpenCompose",
+  "prs": "2",
+  "stars": "59",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/redhat-developer/opencompose",
+  "uses-k8s-client": "",
+  "yaml-data": "Yes"
+}

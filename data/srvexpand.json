@@ -1,0 +1,21 @@
+{
+  "abstraction": "Yes",
+  "active": "No",
+  "contributors": "",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "",
+  "project": "Srvexpand",
+  "prs": "",
+  "stars": "",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/hortonworks/kubernetes-yarn/tree/master/contrib/srvexpand",
+  "uses-k8s-client": "",
+  "yaml-data": "Yes"
+}

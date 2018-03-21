@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "Yes",
+  "contributors": "14",
+  "creation-first-commit-date": "",
+  "external-dsl": "Yes",
+  "internal-dsl": "No",
+  "issues": "78",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "Generates jsonnet library from the OpenAPI description",
+  "project": "ksonnet",
+  "prs": "1",
+  "stars": "169",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/ksonnet/ksonnet",
+  "uses-k8s-client": "",
+  "yaml-data": "No"
+}

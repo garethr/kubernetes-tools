@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "Yes",
+  "contributors": "33",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "204",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "",
+  "project": "fabric8-mvn-plugin",
+  "prs": "18",
+  "stars": "80",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/fabric8io/fabric8-maven-plugin",
+  "uses-k8s-client": "",
+  "yaml-data": "No"
+}

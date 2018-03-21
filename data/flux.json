@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "Yes",
+  "contributors": "19",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "112",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "",
+  "project": "Flux",
+  "prs": "2",
+  "stars": "312",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/weaveworks/flux",
+  "uses-k8s-client": "kubectl",
+  "yaml-data": "No"
+}

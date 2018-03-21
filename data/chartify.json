@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "Yes",
+  "contributors": "3",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "11",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "",
+  "project": "Chartify",
+  "prs": "1",
+  "stars": "71",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/appscode/chartify",
+  "uses-k8s-client": "",
+  "yaml-data": "Yes"
+}

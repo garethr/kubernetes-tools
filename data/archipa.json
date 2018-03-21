@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "Yes",
+  "contributors": "1",
+  "creation-first-commit-date": "",
+  "external-dsl": "Yes",
+  "internal-dsl": "No",
+  "issues": "0",
+  "last-activity-commit": "",
+  "license": "MPL 2",
+  "notes": "",
+  "project": "Archipa",
+  "prs": "9",
+  "stars": "4",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/archipaorg/archipa",
+  "uses-k8s-client": "",
+  "yaml-data": "No"
+}

@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "Yes",
+  "contributors": "20",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "25",
+  "last-activity-commit": "",
+  "license": "MIT",
+  "notes": "Special handling for encryped json",
+  "project": "kubernetes-deploy",
+  "prs": "9",
+  "stars": "312",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/Shopify/kubernetes-deploy",
+  "uses-k8s-client": "kubeclient ruby",
+  "yaml-data": "Yes"
+}

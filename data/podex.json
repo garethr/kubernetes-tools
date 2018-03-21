@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "No",
+  "contributors": "",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "",
+  "project": "Podex",
+  "prs": "",
+  "stars": "",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/kubernetes/contrib/tree/master/podex",
+  "uses-k8s-client": "",
+  "yaml-data": "No"
+}

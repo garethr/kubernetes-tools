@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "Yes",
+  "contributors": "7",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "6",
+  "last-activity-commit": "",
+  "license": "MIT",
+  "notes": "",
+  "project": "Helmfile",
+  "prs": "1",
+  "stars": "106",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/roboll/helmfile",
+  "uses-k8s-client": "",
+  "yaml-data": "No"
+}

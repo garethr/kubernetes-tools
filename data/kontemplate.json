@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "Yes",
+  "contributors": "2",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "21",
+  "last-activity-commit": "",
+  "license": "GPL3",
+  "notes": "",
+  "project": "kontemplate",
+  "prs": "3",
+  "stars": "71",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/tazjin/kontemplate",
+  "uses-k8s-client": "",
+  "yaml-data": "Yes"
+}

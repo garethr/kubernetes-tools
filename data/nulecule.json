@@ -1,0 +1,21 @@
+{
+  "abstraction": "Yes",
+  "active": "No",
+  "contributors": "29",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "30",
+  "last-activity-commit": "",
+  "license": "GPL",
+  "notes": "",
+  "project": "Nulecule",
+  "prs": "4",
+  "stars": "227",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/projectatomic/nulecule",
+  "uses-k8s-client": "",
+  "yaml-data": "Yes"
+}

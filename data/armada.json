@@ -1,0 +1,21 @@
+{
+  "abstraction": "Yes",
+  "active": "Yes",
+  "contributors": "19",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "32",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "Built on top of helm. Built to install openstack into k8s and deal with needs for that",
+  "project": "armada",
+  "prs": "0",
+  "stars": "41",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/att-comdev/armada",
+  "uses-k8s-client": "",
+  "yaml-data": "Yes"
+}

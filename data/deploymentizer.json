@@ -1,0 +1,21 @@
+{
+  "abstraction": "Yes",
+  "active": "Yes",
+  "contributors": "5",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "1",
+  "last-activity-commit": "",
+  "license": "MIT",
+  "notes": "",
+  "project": "Deploymentizer",
+  "prs": "0",
+  "stars": "8",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/InVisionApp/kit-deploymentizer",
+  "uses-k8s-client": "",
+  "yaml-data": "Yes"
+}

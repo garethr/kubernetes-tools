@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "Yes",
+  "contributors": "3",
+  "creation-first-commit-date": "",
+  "external-dsl": "Yes",
+  "internal-dsl": "No",
+  "issues": "1",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "Uses jsonnet",
+  "project": "Kapitan",
+  "prs": "0",
+  "stars": "109",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/deepmind/kapitan",
+  "uses-k8s-client": "",
+  "yaml-data": "No"
+}

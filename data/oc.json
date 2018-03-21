@@ -1,0 +1,21 @@
+{
+  "abstraction": "Yes",
+  "active": "Yes",
+  "contributors": "",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "",
+  "project": "oc",
+  "prs": "",
+  "stars": "",
+  "tags": [
+    "config"
+  ],
+  "url": "https://docs.openshift.com/online/dev_guide/application_lifecycle/new_app.html",
+  "uses-k8s-client": "client-go",
+  "yaml-data": "No"
+}

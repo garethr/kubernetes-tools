@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "Yes",
+  "contributors": "12",
+  "creation-first-commit-date": "",
+  "external-dsl": "",
+  "internal-dsl": "",
+  "issues": "8",
+  "last-activity-commit": "",
+  "license": "BSD",
+  "notes": "",
+  "project": "Skylark",
+  "prs": "2",
+  "stars": "947",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/google/skylark",
+  "uses-k8s-client": "",
+  "yaml-data": "No"
+}

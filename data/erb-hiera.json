@@ -1,0 +1,21 @@
+{
+  "abstraction": "Yes",
+  "active": "Yes",
+  "contributors": "1",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "0",
+  "last-activity-commit": "",
+  "license": "MIT",
+  "notes": "",
+  "project": "ERB-Hiera",
+  "prs": "2",
+  "stars": "3",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/roobert/erb-hiera",
+  "uses-k8s-client": "",
+  "yaml-data": "Yes"
+}

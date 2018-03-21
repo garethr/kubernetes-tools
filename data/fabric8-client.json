@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "Yes",
+  "contributors": "69",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "Yes",
+  "issues": "163",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "",
+  "project": "fabric8 client",
+  "prs": "9",
+  "stars": "313",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/fabric8io/kubernetes-client",
+  "uses-k8s-client": "",
+  "yaml-data": "No"
+}

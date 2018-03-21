@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "Yes",
+  "contributors": "19",
+  "creation-first-commit-date": "",
+  "external-dsl": "Yes",
+  "internal-dsl": "No",
+  "issues": "27",
+  "last-activity-commit": "",
+  "license": "MPL 2",
+  "notes": "",
+  "project": "Terraform",
+  "prs": "7",
+  "stars": "77",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/terraform-providers/terraform-provider-kubernetes",
+  "uses-k8s-client": "client-go",
+  "yaml-data": "No"
+}

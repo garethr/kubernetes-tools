@@ -1,0 +1,21 @@
+{
+  "abstraction": "Yes",
+  "active": "Yes",
+  "contributors": "7",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "1",
+  "last-activity-commit": "",
+  "license": "MIT",
+  "notes": "",
+  "project": "Psykube",
+  "prs": "0",
+  "stars": "55",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/CommercialTribe/psykube",
+  "uses-k8s-client": "kubectl",
+  "yaml-data": "Yes"
+}

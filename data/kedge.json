@@ -1,0 +1,21 @@
+{
+  "abstraction": "Yes",
+  "active": "Yes",
+  "contributors": "11",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "107",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "",
+  "project": "Kedge",
+  "prs": "15",
+  "stars": "136",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/kedgeproject/kedge",
+  "uses-k8s-client": "",
+  "yaml-data": "Yes"
+}

@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "Yes",
+  "contributors": "4",
+  "creation-first-commit-date": "",
+  "external-dsl": "Yes",
+  "internal-dsl": "No",
+  "issues": "6",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "",
+  "project": "Ansible",
+  "prs": "0",
+  "stars": "42",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/ansible/ansible-kubernetes-modules",
+  "uses-k8s-client": "Openshift Python client",
+  "yaml-data": "Yes"
+}

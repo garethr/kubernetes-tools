@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "Yes",
+  "contributors": "7",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "8",
+  "last-activity-commit": "",
+  "license": "MIT",
+  "notes": "",
+  "project": "ktmpl",
+  "prs": "1",
+  "stars": "145",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/jimmycuadra/ktmpl",
+  "uses-k8s-client": "",
+  "yaml-data": "Yes"
+}

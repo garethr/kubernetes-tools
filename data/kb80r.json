@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "No",
+  "contributors": "5",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "25",
+  "last-activity-commit": "",
+  "license": "MIT",
+  "notes": "",
+  "project": "kb80r",
+  "prs": "3",
+  "stars": "46",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/UKHomeOffice/kb8or",
+  "uses-k8s-client": "kubectl",
+  "yaml-data": "Yes"
+}

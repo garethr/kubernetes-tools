@@ -1,0 +1,21 @@
+{
+  "abstraction": "Yes",
+  "active": "Yes",
+  "contributors": "7",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "14",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "",
+  "project": "Smith",
+  "prs": "1",
+  "stars": "114",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/atlassian/smith",
+  "uses-k8s-client": "client-go",
+  "yaml-data": "Yes"
+}

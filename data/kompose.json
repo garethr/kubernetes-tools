@@ -1,0 +1,21 @@
+{
+  "abstraction": "Yes",
+  "active": "Yes",
+  "contributors": "32",
+  "creation-first-commit-date": "",
+  "external-dsl": "",
+  "internal-dsl": "",
+  "issues": "81",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "",
+  "project": "Kompose",
+  "prs": "8",
+  "stars": "1940",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/kubernetes-incubator/kompose",
+  "uses-k8s-client": "client-go",
+  "yaml-data": ""
+}

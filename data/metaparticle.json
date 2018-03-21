@@ -1,0 +1,21 @@
+{
+  "abstraction": "Yes",
+  "active": "Yes",
+  "contributors": "19",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "Yes",
+  "issues": "16",
+  "last-activity-commit": "",
+  "license": "MIT",
+  "notes": "",
+  "project": "Metaparticle",
+  "prs": "0",
+  "stars": "163",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/metaparticle-io/package",
+  "uses-k8s-client": "",
+  "yaml-data": "No"
+}

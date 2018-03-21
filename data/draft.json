@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "Yes",
+  "contributors": "34",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "90",
+  "last-activity-commit": "",
+  "license": "MIT",
+  "notes": "Uses Helm",
+  "project": "Draft",
+  "prs": "9",
+  "stars": "1589",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/Azure/draft",
+  "uses-k8s-client": "",
+  "yaml-data": "Yes"
+}

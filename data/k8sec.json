@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "Yes",
+  "contributors": "3",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "0",
+  "last-activity-commit": "",
+  "license": "MIT",
+  "notes": "Only managed Kubernetes secrets",
+  "project": "k8sec",
+  "prs": "0",
+  "stars": "87",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/dtan4/k8sec",
+  "uses-k8s-client": "",
+  "yaml-data": "No"
+}

@@ -1,0 +1,21 @@
+{
+  "abstraction": "No",
+  "active": "No",
+  "contributors": "4",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "44",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "",
+  "project": "Spread",
+  "prs": "9",
+  "stars": "1845",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/redspread/spread",
+  "uses-k8s-client": "client-go",
+  "yaml-data": "Yes"
+}

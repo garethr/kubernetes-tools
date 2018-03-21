@@ -1,0 +1,21 @@
+{
+  "abstraction": "Yes",
+  "active": "Yes",
+  "contributors": "6",
+  "creation-first-commit-date": "",
+  "external-dsl": "No",
+  "internal-dsl": "No",
+  "issues": "43",
+  "last-activity-commit": "",
+  "license": "Apache 2",
+  "notes": "",
+  "project": "Forge",
+  "prs": "1",
+  "stars": "123",
+  "tags": [
+    "config"
+  ],
+  "url": "https://github.com/datawire/forge/",
+  "uses-k8s-client": "kubectl",
+  "yaml-data": "Yes"
+}

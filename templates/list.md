@@ -1,4 +1,4 @@
 
 {% for project in projects -%}
-* [{ project }}](projects/{{project}}.md)
+* [{{ project }}](projects/{{project}}.md)
 {% endfor -%}

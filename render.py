@@ -18,7 +18,7 @@ def render(path, context):
 projects = []
 tags = defaultdict(list)
 
-OUT = 'out'
+OUT = 'docs'
 
 projects_dir = "%s/projects" % OUT
 

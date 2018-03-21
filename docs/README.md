@@ -1,63 +1,63 @@
 
-* ansible
-* archipa
-* armada
-* broadway
-* chartify
-* compose
-* deis-workflow
-* deploymentizer
-* draft
-* erb-hiera
-* fabric8-client
-* fabric8-mvn-plugin
-* flux
-* forge
-* generator-kubegen
-* gitkube
-* helm
-* helmfile
-* jsonnet
-* k82-icl
-* k8comp
-* k8s-kotlin-dsl
-* k8sec
-* kapitan
-* kb80r
-* kdeploy
-* kedge
-* kenv
-* kexpand
-* kinflate
-* koki
-* kompose
-* konfd
-* kontemplate
-* kploy
-* kpm
-* ksonnet
-* ktmpl
-* kube-applier
-* kubecfg
-* kubegen
-* kubernetes-deploy
-* ky
-* landscaper
-* metaparticle
-* nulecule
-* oc
-* opencompose
-* openshift-templates
-* podex
-* psykube
-* puppet
-* rok8s-scripts
-* rubiks
-* short
-* skipper
-* skylark
-* smith
-* spread
-* srvexpand
-* terraform
-* todo
+* [{ project }}](projects/ansible.md)
+* [{ project }}](projects/archipa.md)
+* [{ project }}](projects/armada.md)
+* [{ project }}](projects/broadway.md)
+* [{ project }}](projects/chartify.md)
+* [{ project }}](projects/compose.md)
+* [{ project }}](projects/deis-workflow.md)
+* [{ project }}](projects/deploymentizer.md)
+* [{ project }}](projects/draft.md)
+* [{ project }}](projects/erb-hiera.md)
+* [{ project }}](projects/fabric8-client.md)
+* [{ project }}](projects/fabric8-mvn-plugin.md)
+* [{ project }}](projects/flux.md)
+* [{ project }}](projects/forge.md)
+* [{ project }}](projects/generator-kubegen.md)
+* [{ project }}](projects/gitkube.md)
+* [{ project }}](projects/helm.md)
+* [{ project }}](projects/helmfile.md)
+* [{ project }}](projects/jsonnet.md)
+* [{ project }}](projects/k82-icl.md)
+* [{ project }}](projects/k8comp.md)
+* [{ project }}](projects/k8s-kotlin-dsl.md)
+* [{ project }}](projects/k8sec.md)
+* [{ project }}](projects/kapitan.md)
+* [{ project }}](projects/kb80r.md)
+* [{ project }}](projects/kdeploy.md)
+* [{ project }}](projects/kedge.md)
+* [{ project }}](projects/kenv.md)
+* [{ project }}](projects/kexpand.md)
+* [{ project }}](projects/kinflate.md)
+* [{ project }}](projects/koki.md)
+* [{ project }}](projects/kompose.md)
+* [{ project }}](projects/konfd.md)
+* [{ project }}](projects/kontemplate.md)
+* [{ project }}](projects/kploy.md)
+* [{ project }}](projects/kpm.md)
+* [{ project }}](projects/ksonnet.md)
+* [{ project }}](projects/ktmpl.md)
+* [{ project }}](projects/kube-applier.md)
+* [{ project }}](projects/kubecfg.md)
+* [{ project }}](projects/kubegen.md)
+* [{ project }}](projects/kubernetes-deploy.md)
+* [{ project }}](projects/ky.md)
+* [{ project }}](projects/landscaper.md)
+* [{ project }}](projects/metaparticle.md)
+* [{ project }}](projects/nulecule.md)
+* [{ project }}](projects/oc.md)
+* [{ project }}](projects/opencompose.md)
+* [{ project }}](projects/openshift-templates.md)
+* [{ project }}](projects/podex.md)
+* [{ project }}](projects/psykube.md)
+* [{ project }}](projects/puppet.md)
+* [{ project }}](projects/rok8s-scripts.md)
+* [{ project }}](projects/rubiks.md)
+* [{ project }}](projects/short.md)
+* [{ project }}](projects/skipper.md)
+* [{ project }}](projects/skylark.md)
+* [{ project }}](projects/smith.md)
+* [{ project }}](projects/spread.md)
+* [{ project }}](projects/srvexpand.md)
+* [{ project }}](projects/terraform.md)
+* [{ project }}](projects/todo.md)
